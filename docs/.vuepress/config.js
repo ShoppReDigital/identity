@@ -1,13 +1,19 @@
 module.exports = {
-  title: "MEAN Stack at Scale - Parken Consulting, India",
-  description: "MongoDB/MySQL, NodeJS, AngularJS Consulting from India",
+  title: "Identity - Parken Consulting, India",
+  description: "OAuth, SAML, Open ID Connect, Single Singon Consulting from India",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
-      { text: "SEO", link: "/guide/" },
-      { text: "Database", link: "/config" }
+      { text: "OAuth in NodeJS", link: "/guide/nodejs-oauth-implementation.html" },
     ]
   },
   dest: "public",
-  plugins: ['social-share'],
+  plugins: [
+      'social-share',
+    {
+      'sitemap': {
+        hostname: 'https://identity.now.sh/'
+      },
+    }
+  ],
 };
