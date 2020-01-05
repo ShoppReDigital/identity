@@ -12,7 +12,7 @@ module.exports = {
       'social-share',
     {
       'sitemap': {
-        hostname: 'https://identity.now.sh/'
+        hostname: 'https://identity.parkenconsulting.com/'
       },
     }
   ],
