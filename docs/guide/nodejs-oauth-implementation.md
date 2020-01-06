@@ -1,4 +1,4 @@
-# OAuth 2.0 Implementation in NodeJS
+# [OAuth 2.0 Implementation in NodeJS](https://identity.parkenconsulting.com/guide/nodejs-oauth-implementation.html)
 
 for one click installation contact [nakul@parkenconsulting.com](mailto:nakul@parkenconsulting.com)
 
