@@ -37,10 +37,16 @@ for one click installation contact [nakul@parkenconsulting.com](mailto:nakul@par
 ### Marketing Team
 
 - Demographic Details about Customers
+- Easy Segmentation
 - Customized Signup Activation emails, Password Reset emails
 
 ### Identity Management Team
 
 - Securing Sensitive Data Access from Developers, Employees and Hacking
+
+### Company Leadership & Management
+
+- As the data is secure. No risk of customer data and account compromising to hacks
+- As the login system is isolated, No risk of developers or marketers and cloud providers misusing the data
 
 
