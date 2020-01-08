@@ -22,3 +22,25 @@ for one click installation contact [nakul@parkenconsulting.com](mailto:nakul@par
 
 - GDPR
 
+# Features
+
+- One Click Installation
+- OAuth 2.0 Complaint
+- API Driven
+- Webhooks Support to run Drip Emails
+- Captcha
+- Throttling
+- Login with Google and Login with Facebook Integration
+
+## Use Cases
+
+### Marketing Team
+
+- Demographic Details about Customers
+- Customized Signup Activation emails, Password Reset emails
+
+### Identity Management Team
+
+- Securing Sensitive Data Access from Developers, Employees and Hacking
+
+
