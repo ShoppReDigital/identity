@@ -18,16 +18,16 @@ for one click installation contact [nakul@parkenconsulting.com](mailto:nakul@par
 - Browsers [npmjs.com/bowser](https://www.npmjs.com/package/bowser)
 - User Agent, Operating System [npmjs.com/useragent](https://www.npmjs.com/package/useragent)
 
-## Complaince
-
-- GDPR
-
 ## Features
+
+### UX
+- Signup & Login(Email, OTP, MagicLink, Google, Facebook)
+- Forgot Password
+- Change Password
 
 ### General
 
 - Webhooks Support to run Drip Emails
-- Login with Google and Login with Facebook Integration
 
 ### Privacy
 
@@ -41,9 +41,16 @@ for one click installation contact [nakul@parkenconsulting.com](mailto:nakul@par
 
 ### Developer
 
+- App Management - for example your company have marketing app, sales app, customer app - with Login this login system you can track usage by app
 - One Click Installation
 - OAuth 2.0 Complaint
 - API Driven
+- JWT
+- Session Management - Capable to track customers devices, active logins, location of login
+
+### Complaince
+
+- GDPR
 
 ## Use Cases
 
