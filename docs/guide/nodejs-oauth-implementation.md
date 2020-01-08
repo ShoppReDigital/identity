@@ -18,3 +18,7 @@ for one click installation contact [nakul@parkenconsulting.com](mailto:nakul@par
 - Browsers [npmjs.com/bowser](https://www.npmjs.com/package/bowser)
 - User Agent, Operating System [npmjs.com/useragent](https://www.npmjs.com/package/useragent)
 
+## Complaince
+
+- GDPR
+
