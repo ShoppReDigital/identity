@@ -22,15 +22,23 @@ for one click installation contact [nakul@parkenconsulting.com](mailto:nakul@par
 
 - GDPR
 
-# Features
+## General - Features
+
+- Webhooks Support to run Drip Emails
+- Login with Google and Login with Facebook Integration
+
+## Privacy - Features
+
+## Security - Features
+
+- Throttling
+- Captcha
+
+## Developer - Features
 
 - One Click Installation
 - OAuth 2.0 Complaint
 - API Driven
-- Webhooks Support to run Drip Emails
-- Captcha
-- Throttling
-- Login with Google and Login with Facebook Integration
 
 ## Use Cases
 
