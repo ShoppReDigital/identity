@@ -21,7 +21,8 @@ for one click installation contact [nakul@parkenconsulting.com](mailto:nakul@par
 ## Features
 
 ### UX
-- Signup & Login(Email, OTP, MagicLink, Google, Facebook)
+- Signup - [checkli](http://checkli.com/s/5e16c866e9a9c)
+- Login(Email, OTP, MagicLink, Google, Facebook)
 - Forgot Password
 - Change Password
 
