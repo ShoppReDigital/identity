@@ -6,7 +6,7 @@ for one click installation contact [nakul@parkenconsulting.com](mailto:nakul@par
 
 
 ## Similar Projects
-- [Reaction Hydra](https://github.com/reactioncommerce/reaction-hydra)
+- [Reaction Hydra](https://github.com/reactioncommerce/reaction-hydra) use [Ory Hydra](https://github.com/ory/hydra)
 
 ## Table of Contents
 
