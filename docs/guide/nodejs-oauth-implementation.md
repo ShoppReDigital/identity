@@ -4,6 +4,10 @@ for one click installation contact [nakul@parkenconsulting.com](mailto:nakul@par
 
 [Improve this page](https://github.com/Parken-Consulting/identity/edit/master/docs/guide/nodejs-oauth-implementation.md)
 
+
+## Similar Projects
+- [Reaction Hydra](https://github.com/reactioncommerce/reaction-hydra)
+
 ## Table of Contents
 
 - Comply with [RFC 6749](https://tools.ietf.org/html/rfc6749)
