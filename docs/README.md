@@ -1,5 +1,7 @@
 # Your NodeJS, AngularJS Artchitect, Now Online
 
+[Improve this page](https://github.com/shoppre/identity/edit/master/docs/README.md)
+
 <br>
 <br>
 <social-share
