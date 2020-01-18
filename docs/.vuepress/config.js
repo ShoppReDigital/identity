@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Identity - Parken Consulting, India",
+  title: "Identity - Shoppre Consulting, India",
   description: "OAuth, SAML, Open ID Connect, Single Singon Consulting from India",
   themeConfig: {
     nav: [
@@ -12,7 +12,7 @@ module.exports = {
       'social-share',
     {
       'sitemap': {
-        hostname: 'https://identity.parkenconsulting.com/'
+        hostname: 'https://identity.shoppre.com/'
       },
     }
   ],
