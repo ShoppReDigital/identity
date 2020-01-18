@@ -10,6 +10,6 @@
 <br>
 
 
-<a href="/guide/" class="nav-link action-button">
+<a href="https://login.shoppre.com/signin?client_id=github_pages_identity" class="nav-link action-button">
   Get Started →
 </a>
