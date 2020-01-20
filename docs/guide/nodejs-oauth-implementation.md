@@ -75,7 +75,7 @@ for one click installation contact [nakul@parkenconsulting.com](mailto:nakul@par
 - As the data is secure. No risk of customer data and account compromising to hacks
 - As the login system is isolated, No risk of developers or marketers and cloud providers misusing the data
 
-### Public Contribution
+### Related Links
 
 - [https://stackoverflow.com/questions/25991527/oauth2-server-creation-with-nodejs](https://stackoverflow.com/questions/25991527/oauth2-server-creation-with-nodejs)
 - [https://stackoverflow.com/questions/48074527/oauth2-server-creation-nodejs](https://stackoverflow.com/questions/48074527/oauth2-server-creation-nodejs)
